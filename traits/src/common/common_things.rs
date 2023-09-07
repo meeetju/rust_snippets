@@ -5,3 +5,5 @@ pub trait MyBlanketTrait {
 }
 
 impl <T> MyBlanketTrait for T {}
+
+pub struct ImportedStruct;
